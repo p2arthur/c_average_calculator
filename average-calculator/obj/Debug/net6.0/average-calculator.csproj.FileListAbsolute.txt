@@ -1,0 +1,15 @@
+C:\Users\Administrador\Documents\Senac C#\average-calculator\average-calculator\obj\Debug\net6.0\average-calculator.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\Senac C#\average-calculator\average-calculator\obj\Debug\net6.0\average-calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Senac C#\average-calculator\average-calculator\obj\Debug\net6.0\average-calculator.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Senac C#\average-calculator\average-calculator\obj\Debug\net6.0\average-calculator.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Senac C#\average-calculator\average-calculator\obj\Debug\net6.0\average-calculator.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Senac C#\average-calculator\average-calculator\bin\Debug\net6.0\average-calculator.exe
+C:\Users\Administrador\Documents\Senac C#\average-calculator\average-calculator\bin\Debug\net6.0\average-calculator.deps.json
+C:\Users\Administrador\Documents\Senac C#\average-calculator\average-calculator\bin\Debug\net6.0\average-calculator.runtimeconfig.json
+C:\Users\Administrador\Documents\Senac C#\average-calculator\average-calculator\bin\Debug\net6.0\average-calculator.dll
+C:\Users\Administrador\Documents\Senac C#\average-calculator\average-calculator\bin\Debug\net6.0\average-calculator.pdb
+C:\Users\Administrador\Documents\Senac C#\average-calculator\average-calculator\obj\Debug\net6.0\average-calculator.dll
+C:\Users\Administrador\Documents\Senac C#\average-calculator\average-calculator\obj\Debug\net6.0\refint\average-calculator.dll
+C:\Users\Administrador\Documents\Senac C#\average-calculator\average-calculator\obj\Debug\net6.0\average-calculator.pdb
+C:\Users\Administrador\Documents\Senac C#\average-calculator\average-calculator\obj\Debug\net6.0\average-calculator.genruntimeconfig.cache
+C:\Users\Administrador\Documents\Senac C#\average-calculator\average-calculator\obj\Debug\net6.0\ref\average-calculator.dll
